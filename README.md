@@ -1,7 +1,14 @@
 # A San Diego Parking Tickets Data Analysis and GeoSpatial Visualization
 
+## Introduction
 With the dataset of Parking Citations in the San Diego area published by the City Treasurer, we conduct a series of analysis including Linear Regression, Geospatial Heat Map Visualization to explore the characteristics of the parking tickets from the perspectives of time and space.  
 Our research conclusion shows and explains why there are times and places where more parking tickets can be found, so that we provide some tips for parking when it's almost impossible to park in the parking lot. Moreover, we develop a small client-side web application that will tell a user if they are prone to parking tickets based on the street name and the time, with the help of Google Map API.
+
+
+## Project Highlights
+- Analyzed 50,000+ parking tickets using ML models (Regression, XGBoost, Random Forest) and geospatial heatmaps.
+- Correlated time, location, and vehicle type with citation frequency for actionable insights.
+- Developed client-side web application with Google Maps API for real-time parking risk assessment.
 
 Datasets
 1. Parking Tickets in San Diego Between 2012-2023
@@ -292,6 +299,10 @@ All of the dependencies can be installed in the terminal using the command:
 ```
 pip install -r requirements.txt
 ```
+
+## Skills
+
+Machine Learning (Regression, Classification, SVD, XGBoost, Random Forest), Geospatial Analysis (Folium, Heat Maps, Location-based Insights), Statistical Analysis (Correlation, Trend Analysis, Feature Engineering), Web Development (Google Maps API, JavaScript, Client-Side Application), Data Visualization (Geospatial Visualization, Heat Maps, Charts), Data Preprocessing (Feature Extraction, Data Cleaning).
 
 # References
 **Data:**  
