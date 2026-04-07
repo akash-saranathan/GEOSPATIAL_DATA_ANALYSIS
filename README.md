@@ -10,7 +10,7 @@ Our research conclusion shows and explains why there are times and places where 
 - Correlated time, location, and vehicle type with citation frequency for actionable insights.
 - Developed client-side web application with Google Maps API for real-time parking risk assessment.
 
-Datasets
+## Datasets
 1. Parking Tickets in San Diego Between 2012-2023
 2. Population in Cities of San Diego Between 2012-2022
 3. Parking Meters in San Diego Between 2018-2023
